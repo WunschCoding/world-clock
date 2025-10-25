@@ -25,6 +25,11 @@ select {
   padding: 10px;
   border-radius: 6px;
 }
+small {
+  font-size: 22px;
+  line-height: 44px;
+  vertical-align: middle;
+}
 .container {
   max-width: 600px;
   margin: 50px auto 10px;
@@ -52,9 +57,4 @@ select {
   margin-left: 15px;
   font-size: 44px;
   font-weight: bold;
-}
-.ampm {
-  font-size: 22px;
-  line-height: 44px;
-  vertical-align: middle;
 }
